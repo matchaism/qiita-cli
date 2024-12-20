@@ -4,8 +4,8 @@ tags:
   - Python
   - オーバーロード
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-12-20T19:28:35+09:00'
+id: 7a83a5d11b051a1d2ba0
 organization_url_name: null
 slide: false
 ignorePublish: false
